@@ -8,7 +8,7 @@ para crear comentarios multiples o comentarios que sean mas de una linea
 
 #asignacion de variables
 
-Nombre = "Minecraft"
+Nombre = "Zonacraft"
 anio = 2011
 
 #para imprimir lo que se tiene guardado en la varibe solo es necesario ponerlo en un print(NombreDeLaVariable)
