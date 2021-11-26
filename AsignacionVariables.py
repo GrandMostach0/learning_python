@@ -8,6 +8,7 @@ para crear comentarios multiples o comentarios que sean mas de una linea
 
 #asignacion de variables
 
+#este comentario solo aparecera en la segunda rama
 Nombre = "Zonacraft"
 anio = 2011
 
